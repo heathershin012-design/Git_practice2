@@ -12,7 +12,7 @@ here::i_am(
 
 ```{r, load-random_numbers, include = FALSE}
 #! TO DO: 
-#!   read distributions from output directory
+#!   read  random_numbers1 from output directory
 random_numbers1 <- readRDS(
   here::here("output/random_numbers1.rds")
 )
